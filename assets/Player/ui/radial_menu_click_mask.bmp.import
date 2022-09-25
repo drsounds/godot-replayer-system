@@ -1,0 +1,15 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+path="res://.import/radial_menu_click_mask.bmp-909519bcc8cc5d01cc635623dd310659.res"
+
+[deps]
+
+source_file="res://assets/Player/ui/radial_menu_click_mask.bmp"
+dest_files=[ "res://.import/radial_menu_click_mask.bmp-909519bcc8cc5d01cc635623dd310659.res" ]
+
+[params]
+
+create_from=0
+threshold=0.5

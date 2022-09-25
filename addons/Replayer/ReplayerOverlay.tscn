@@ -1,0 +1,21 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://addons/Replayer/ReplayerOverlay.gd" type="Script" id=1]
+
+[node name="Control" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 1 )
+
+[node name="StatusText" type="RichTextLabel" parent="."]
+margin_left = 52.1842
+margin_top = 25.2368
+margin_right = 122.184
+margin_bottom = 46.2368
+text = "Recording"
+
+[node name="RecordingCircle" type="Polygon2D" parent="."]
+position = Vector2( 25.1842, -4.76316 )
+scale = Vector2( 0.342105, 0.342105 )
+color = Color( 0.992157, 0, 0, 1 )
+polygon = PoolVector2Array( 32, 87, 25, 90, 19, 96, 17, 104, 20, 114, 23, 118, 29, 123, 36, 125, 44, 124, 52, 119, 56, 114, 59, 107, 61, 103, 60, 99, 56, 93, 52, 89, 47, 88, 42, 87 )

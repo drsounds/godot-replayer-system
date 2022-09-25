@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/eMastered_Sounds of Retro Futurism.ogg-604d790184a1089e9ee859b9b1eb0504.oggstr"
+
+[deps]
+
+source_file="res://assets/Player/eMastered_Sounds of Retro Futurism.ogg"
+dest_files=[ "res://.import/eMastered_Sounds of Retro Futurism.ogg-604d790184a1089e9ee859b9b1eb0504.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
